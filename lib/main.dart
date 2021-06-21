@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
         appBar: AppBar(
           title: Text('AI Text Recognizer'),
           centerTitle: true,
-          backgroundColor: Colors.orange,
+          backgroundColor: Colors.red,
 
           ),
         floatingActionButton:  FloatingActionButton(
